@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Fresher Frontend Developer** passionate ab
 ## 🚀 About Me
 
 - 🌱 I specialize in creating responsive and accessible web applications.
-- 🎯 Currently improving my skills in **React** and **JavaScript**.
+- 🎯 Currently improving my skills in **React**.
 - 🤝 Open to collaborating on exciting frontend projects.
 - 🌐 Exploring innovative solutions with modern web technologies.
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a **Fresher Frontend Developer** passionate ab
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, TailwindCSS, JavaScript, React
-- **Tools & Platforms:** Git, GitHub
+- **Tools & Platforms:** Git, GitHub, Vs Code
 - **Soft Skills:** Problem-Solving, Team Collaboration, Attention to Detail
 
 ---
